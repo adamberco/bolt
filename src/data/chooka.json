@@ -1,0 +1,1168 @@
+{
+   "results": [
+      {
+         "active_menu": {
+            "$oid": "5ee7490cf7241d6ea9b2dd3f"
+         },
+         "address": "הקנין הגדול, זאב ז'בוטינסקי 72",
+         "alive": 1,
+         "allowed_payment_methods": [
+            "card"
+         ],
+         "always_available": false,
+         "b2b_recommended": false,
+         "bank_account_type": "IBAN",
+         "bank_routing_code": "",
+         "cart_view_enabled": false,
+         "categories": [
+            {
+               "link_slug": "category-asian:petah tikva",
+               "name": "אסיאתי",
+               "primary": true,
+               "slug": "asian"
+            },
+            {
+               "link_slug": "category-japanese:petah tikva",
+               "name": "יפני",
+               "primary": false,
+               "slug": "japanese"
+            },
+            {
+               "link_slug": "category-noodles:petah tikva",
+               "name": "נודלס",
+               "primary": false,
+               "slug": "noodles"
+            },
+            {
+               "link_slug": "category-sushi:petah tikva",
+               "name": "סושי",
+               "primary": false,
+               "slug": "sushi"
+            },
+            {
+               "link_slug": "category-kosher:petah tikva",
+               "name": "כשר",
+               "primary": false,
+               "slug": "kosher"
+            },
+            {
+               "link_slug": "category-kosher-for-passover:petah tikva",
+               "name": "כשר לפסח",
+               "primary": false,
+               "slug": "kosher-for-passover"
+            }
+         ],
+         "city": "Petah Tikva",
+         "city_id": "5e7b3395fd61a6655599258e",
+         "comment_disabled": false,
+         "completion_estimates": {
+            "delivery": "20-40",
+            "delivery_rush": "20-40",
+            "normal": "10-30",
+            "order_estimates_in_use": true,
+            "rush": "10-30"
+         },
+         "country": "ISR",
+         "currency": "ILS",
+         "customer_support_phone": "",
+         "delivery_methods": [
+            "homedelivery",
+            "takeaway"
+         ],
+         "delivery_specs": {
+            "capability_values": [],
+            "courier_restrictions": 0,
+            "custom_geo_range": {
+               "coordinates": [
+                  [
+                     [
+                        34.93093706631607,
+                        32.076086930784356
+                     ],
+                     [
+                        34.92908040018934,
+                        32.07091203875308
+                     ],
+                     [
+                        34.90391385079276,
+                        32.067449136520075
+                     ],
+                     [
+                        34.874072477666175,
+                        32.073349740140614
+                     ],
+                     [
+                        34.86336379736295,
+                        32.07345944902322
+                     ],
+                     [
+                        34.86250335756741,
+                        32.07379444103653
+                     ],
+                     [
+                        34.861545826922224,
+                        32.08046129640569
+                     ],
+                     [
+                        34.86399796596069,
+                        32.09130785852338
+                     ],
+                     [
+                        34.84616566975649,
+                        32.092418060994476
+                     ],
+                     [
+                        34.846225525301236,
+                        32.09384908643864
+                     ],
+                     [
+                        34.846283690889464,
+                        32.09503517672415
+                     ],
+                     [
+                        34.846319875941816,
+                        32.09555089445037
+                     ],
+                     [
+                        34.846391229852884,
+                        32.096051712471294
+                     ],
+                     [
+                        34.84672939878044,
+                        32.09721330228298
+                     ],
+                     [
+                        34.84729902269683,
+                        32.09889515896124
+                     ],
+                     [
+                        34.847720507896355,
+                        32.099856863463
+                     ],
+                     [
+                        34.84811513144621,
+                        32.101299780855186
+                     ],
+                     [
+                        34.84885905096502,
+                        32.10352791191545
+                     ],
+                     [
+                        34.852267428715265,
+                        32.11090796589747
+                     ],
+                     [
+                        34.852888626942104,
+                        32.111553457873825
+                     ],
+                     [
+                        34.85449113224439,
+                        32.11307531755928
+                     ],
+                     [
+                        34.86119251805127,
+                        32.11365114974316
+                     ],
+                     [
+                        34.884695929143675,
+                        32.115296364540995
+                     ],
+                     [
+                        34.8909471476816,
+                        32.113412916128354
+                     ],
+                     [
+                        34.89271399256441,
+                        32.11452977360206
+                     ],
+                     [
+                        34.89453252896084,
+                        32.11699013057829
+                     ],
+                     [
+                        34.89590327347952,
+                        32.11917122675996
+                     ],
+                     [
+                        34.8974464326798,
+                        32.12147394945444
+                     ],
+                     [
+                        34.90146592383988,
+                        32.121371820565415
+                     ],
+                     [
+                        34.90454372225918,
+                        32.12097519726632
+                     ],
+                     [
+                        34.90352809374954,
+                        32.11732108685179
+                     ],
+                     [
+                        34.90519511477689,
+                        32.11735139028724
+                     ],
+                     [
+                        34.90475894666096,
+                        32.11452577211409
+                     ],
+                     [
+                        34.9033065780975,
+                        32.114585579012186
+                     ],
+                     [
+                        34.90205449878002,
+                        32.108650403348975
+                     ],
+                     [
+                        34.899925930329545,
+                        32.10615213826898
+                     ],
+                     [
+                        34.898760471927716,
+                        32.103930868830574
+                     ],
+                     [
+                        34.902839576331644,
+                        32.10282021385082
+                     ],
+                     [
+                        34.901674117931464,
+                        32.1001874962396
+                     ],
+                     [
+                        34.90463632470113,
+                        32.09870655923369
+                     ],
+                     [
+                        34.914358871527185,
+                        32.10073052362523
+                     ],
+                     [
+                        34.918703678675655,
+                        32.10224146060318
+                     ],
+                     [
+                        34.92322999385749,
+                        32.104125770925236
+                     ],
+                     [
+                        34.926472785027045,
+                        32.103301366270074
+                     ],
+                     [
+                        34.92668650948687,
+                        32.10291327769127
+                     ],
+                     [
+                        34.9247949663943,
+                        32.09853567378872
+                     ],
+                     [
+                        34.92377181123442,
+                        32.09266420954884
+                     ],
+                     [
+                        34.91089702464143,
+                        32.09312368249617
+                     ],
+                     [
+                        34.907631547814475,
+                        32.09142000231283
+                     ],
+                     [
+                        34.907582987048414,
+                        32.08825210935095
+                     ],
+                     [
+                        34.909525417697864,
+                        32.08631840642933
+                     ],
+                     [
+                        34.91145292007414,
+                        32.08814048032629
+                     ],
+                     [
+                        34.92353993389219,
+                        32.08627585457178
+                     ],
+                     [
+                        34.930409264288926,
+                        32.08417737872844
+                     ],
+                     [
+                        34.93103903945192,
+                        32.08083491615855
+                     ],
+                     [
+                        34.93093706631607,
+                        32.076086930784356
+                     ]
+                  ]
+               ],
+               "type": "Polygon"
+            },
+            "delivery_enabled": true,
+            "delivery_pricing": {
+               "base_price": 1000,
+               "distance_ranges": [
+                  {
+                     "a": 0,
+                     "b": 0,
+                     "max": 1000,
+                     "min": 0
+                  },
+                  {
+                     "a": 200,
+                     "b": 0,
+                     "max": 2000,
+                     "min": 1000
+                  },
+                  {
+                     "a": 400,
+                     "b": 0,
+                     "max": 3000,
+                     "min": 2000
+                  },
+                  {
+                     "a": 600,
+                     "b": 0,
+                     "max": 4000,
+                     "min": 3000
+                  },
+                  {
+                     "a": 800,
+                     "b": 0,
+                     "max": 0,
+                     "min": 4000
+                  }
+               ],
+               "meta": {},
+               "price_multiplier": 1,
+               "price_ranges": [
+                  {
+                     "a": 5000,
+                     "b": -1,
+                     "max": 5000,
+                     "min": 0
+                  },
+                  {
+                     "a": 0,
+                     "b": 0,
+                     "max": 0,
+                     "min": 5000
+                  }
+               ],
+               "tax": 0.17
+            },
+            "delivery_times": {
+               "friday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 39600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 50400000
+                     }
+                  }
+               ],
+               "monday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 39600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 81000000
+                     }
+                  }
+               ],
+               "saturday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 73800000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 81000000
+                     }
+                  }
+               ],
+               "sunday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 39600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 81000000
+                     }
+                  }
+               ],
+               "thursday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 39600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 81000000
+                     }
+                  }
+               ],
+               "tuesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 39600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 81000000
+                     }
+                  }
+               ],
+               "wednesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 39600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 61200000
+                     }
+                  }
+               ]
+            },
+            "forbidden_capabilities": [],
+            "geo_range": {
+               "coordinates": [
+                  [
+                     [
+                        34.93093706631607,
+                        32.076086930784356
+                     ],
+                     [
+                        34.92908040018934,
+                        32.07091203875308
+                     ],
+                     [
+                        34.90391385079276,
+                        32.067449136520075
+                     ],
+                     [
+                        34.874072477666175,
+                        32.073349740140614
+                     ],
+                     [
+                        34.86336379736295,
+                        32.07345944902322
+                     ],
+                     [
+                        34.86250335756741,
+                        32.07379444103653
+                     ],
+                     [
+                        34.861545826922224,
+                        32.08046129640569
+                     ],
+                     [
+                        34.86399796596069,
+                        32.09130785852338
+                     ],
+                     [
+                        34.84616566975649,
+                        32.092418060994476
+                     ],
+                     [
+                        34.846225525301236,
+                        32.09384908643864
+                     ],
+                     [
+                        34.846283690889464,
+                        32.09503517672415
+                     ],
+                     [
+                        34.846319875941816,
+                        32.09555089445037
+                     ],
+                     [
+                        34.846391229852884,
+                        32.096051712471294
+                     ],
+                     [
+                        34.84672939878044,
+                        32.09721330228298
+                     ],
+                     [
+                        34.84729902269683,
+                        32.09889515896124
+                     ],
+                     [
+                        34.847720507896355,
+                        32.099856863463
+                     ],
+                     [
+                        34.84811513144621,
+                        32.101299780855186
+                     ],
+                     [
+                        34.84885905096502,
+                        32.10352791191545
+                     ],
+                     [
+                        34.852267428715265,
+                        32.11090796589747
+                     ],
+                     [
+                        34.852888626942104,
+                        32.111553457873825
+                     ],
+                     [
+                        34.85449113224439,
+                        32.11307531755928
+                     ],
+                     [
+                        34.86119251805127,
+                        32.11365114974316
+                     ],
+                     [
+                        34.884695929143675,
+                        32.115296364540995
+                     ],
+                     [
+                        34.8909471476816,
+                        32.113412916128354
+                     ],
+                     [
+                        34.89271399256441,
+                        32.11452977360206
+                     ],
+                     [
+                        34.89453252896084,
+                        32.11699013057829
+                     ],
+                     [
+                        34.89590327347952,
+                        32.11917122675996
+                     ],
+                     [
+                        34.8974464326798,
+                        32.12147394945444
+                     ],
+                     [
+                        34.90146592383988,
+                        32.121371820565415
+                     ],
+                     [
+                        34.90454372225918,
+                        32.12097519726632
+                     ],
+                     [
+                        34.90352809374954,
+                        32.11732108685179
+                     ],
+                     [
+                        34.90519511477689,
+                        32.11735139028724
+                     ],
+                     [
+                        34.90475894666096,
+                        32.11452577211409
+                     ],
+                     [
+                        34.9033065780975,
+                        32.114585579012186
+                     ],
+                     [
+                        34.90205449878002,
+                        32.108650403348975
+                     ],
+                     [
+                        34.899925930329545,
+                        32.10615213826898
+                     ],
+                     [
+                        34.898760471927716,
+                        32.103930868830574
+                     ],
+                     [
+                        34.902839576331644,
+                        32.10282021385082
+                     ],
+                     [
+                        34.901674117931464,
+                        32.1001874962396
+                     ],
+                     [
+                        34.90463632470113,
+                        32.09870655923369
+                     ],
+                     [
+                        34.914358871527185,
+                        32.10073052362523
+                     ],
+                     [
+                        34.918703678675655,
+                        32.10224146060318
+                     ],
+                     [
+                        34.92322999385749,
+                        32.104125770925236
+                     ],
+                     [
+                        34.926472785027045,
+                        32.103301366270074
+                     ],
+                     [
+                        34.92668650948687,
+                        32.10291327769127
+                     ],
+                     [
+                        34.9247949663943,
+                        32.09853567378872
+                     ],
+                     [
+                        34.92377181123442,
+                        32.09266420954884
+                     ],
+                     [
+                        34.91089702464143,
+                        32.09312368249617
+                     ],
+                     [
+                        34.907631547814475,
+                        32.09142000231283
+                     ],
+                     [
+                        34.907582987048414,
+                        32.08825210935095
+                     ],
+                     [
+                        34.909525417697864,
+                        32.08631840642933
+                     ],
+                     [
+                        34.91145292007414,
+                        32.08814048032629
+                     ],
+                     [
+                        34.92353993389219,
+                        32.08627585457178
+                     ],
+                     [
+                        34.930409264288926,
+                        32.08417737872844
+                     ],
+                     [
+                        34.93103903945192,
+                        32.08083491615855
+                     ],
+                     [
+                        34.93093706631607,
+                        32.076086930784356
+                     ]
+                  ]
+               ],
+               "type": "Polygon"
+            },
+            "postcode_range": [],
+            "price": {
+               "tax": 0.17
+            },
+            "require_street_address": true,
+            "required_capabilities": [],
+            "road_range_mode": "driving",
+            "service_time": {
+               "bike": 180,
+               "car": 300
+            },
+            "use_default_autogenerated_geo_range": false,
+            "use_default_delivery_pricing": true
+         },
+         "description": [
+            {
+               "lang": "en",
+               "value": "Asian Kitchen - Kosher by Cheif Rabbinate of Petah Tikva"
+            },
+            {
+               "lang": "he",
+               "value": "מטבח אסיאתי - כשר בהשגחת רבנות פתח תקווה"
+            }
+         ],
+         "discounts": [],
+         "dropoff_note_prefix": "",
+         "estimates": {
+            "delivery": {
+               "mean": 12
+            },
+            "pickup": {
+               "mean": 6
+            },
+            "preparation": {
+               "max": 30,
+               "mean": 20,
+               "min": 10
+            },
+            "total": {
+               "max": 40,
+               "mean": 30,
+               "min": 20
+            }
+         },
+         "favourite": false,
+         "food_tags": [
+            "אסיאתי",
+            "פרייד רייס",
+            "יפני",
+            "איטריות",
+            "אסיאתי",
+            "סושי",
+            "מוקפץ",
+            "כשר"
+         ],
+         "group_order_enabled": true,
+         "high_volume_venue": false,
+         "id": {
+            "$oid": "5ede4d667e7dcbe9a811823e"
+         },
+         "ipad_free": false,
+         "is_marketplace_v2": false,
+         "is_wolt_plus": false,
+         "item_cards_enabled": false,
+         "itemid": {
+            "$oid": "5ede4d667e7dcbe9a811823e"
+         },
+         "listimage": "https://prod-wolt-venue-images-cdn.wolt.com/5ede4d667e7dcbe9a811823e/86882c88-aef1-11ea-bdd1-7abebb4fa96a_669edd6c_aa47_11ea_9d3c_0a58647acd0a_chooka_cover_wolt_2880x1620px.jpg",
+         "listimage_blurhash": "j6AmVgeY8QfdgQR394J49kPc;Jja",
+         "location": {
+            "coordinates": [
+               34.8653481,
+               32.0932981
+            ],
+            "type": "Point"
+         },
+         "mainimage": "https://prod-wolt-venue-images-cdn.wolt.com/5ede4d667e7dcbe9a811823e/831f1638-aef1-11ea-ae87-7abebb4fa96a_7ccf9f72_aa47_11ea_ab0b_0a58647ac60a_chooka_cover_wolt_2880x1620px.jpg",
+         "mainimage_blurhash": "j6EDln;IJj0QeId4mH;acz0ASXPc",
+         "menu_layout": "regular",
+         "merchant": {
+            "$oid": "5ede4b070a11529bbf6b53d9"
+         },
+         "name": [
+            {
+               "lang": "en",
+               "value": "Chooka | Petah Tikva"
+            },
+            {
+               "lang": "he",
+               "value": "צ'וקה | פתח תקווה"
+            }
+         ],
+         "ncd_allowed": true,
+         "online": true,
+         "opening_times": {
+            "friday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 39600000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 50400000
+                  }
+               }
+            ],
+            "monday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 39600000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 81000000
+                  }
+               }
+            ],
+            "saturday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 73800000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 81000000
+                  }
+               }
+            ],
+            "sunday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 39600000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 81000000
+                  }
+               }
+            ],
+            "thursday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 39600000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 81000000
+                  }
+               }
+            ],
+            "tuesday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 39600000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 81000000
+                  }
+               }
+            ],
+            "wednesday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 39600000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 81000000
+                  }
+               }
+            ]
+         },
+         "phone": "+97239246584",
+         "post_code": "4952801",
+         "preorder_enabled": true,
+         "preorder_only": false,
+         "preorder_times": {
+            "delivery": {
+               "friday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 42300000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 50400000
+                     }
+                  }
+               ],
+               "monday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 42300000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 81000000
+                     }
+                  }
+               ],
+               "saturday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 76500000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 81000000
+                     }
+                  }
+               ],
+               "sunday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 42300000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 81000000
+                     }
+                  }
+               ],
+               "thursday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 42300000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 81000000
+                     }
+                  }
+               ],
+               "tuesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 42300000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 81000000
+                     }
+                  }
+               ],
+               "wednesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 42300000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 61200000
+                     }
+                  }
+               ]
+            },
+            "maximum_days": 7,
+            "minimum_time_limit": 7200,
+            "minimum_time_limits": {
+               "delivery": 3600,
+               "eatin": 2400,
+               "takeaway": 2400
+            },
+            "takeaway": {
+               "friday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 41400000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 49500000
+                     }
+                  }
+               ],
+               "monday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 41400000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 80100000
+                     }
+                  }
+               ],
+               "saturday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 75600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 80100000
+                     }
+                  }
+               ],
+               "sunday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 41400000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 80100000
+                     }
+                  }
+               ],
+               "thursday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 41400000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 80100000
+                     }
+                  }
+               ],
+               "tuesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 41400000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 80100000
+                     }
+                  }
+               ],
+               "wednesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 41400000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 80100000
+                     }
+                  }
+               ]
+            },
+            "time_step": 300
+         },
+         "presence": "brick_and_mortar",
+         "price_range": 2,
+         "product_line": "restaurant",
+         "public_url": "https://wolt.com/he/isr/petah-tikva/restaurant/chooka-petach-tikva",
+         "public_visible": true,
+         "rating": {
+            "negative_percentage": 8,
+            "neutral_percentage": 19,
+            "positive_percentage": 73,
+            "rating": 3,
+            "score": 8,
+            "text": "טוב מאוד",
+            "volume": 500
+         },
+         "ratings_and_reviews_enabled": false,
+         "relevancy": 16.993574848467308,
+         "relevancy_from_purchases": 17.483937121168267,
+         "rush": {
+            "queue_minutes": false,
+            "status": false
+         },
+         "service_fee_description": "דמי השירות עוזרים לנו לספק שירות מעולה, בעזרתם אנו מכסים מגוון עלויות הקשורות לתפעול האופרטיבי שלנו.",
+         "short_description": [
+            {
+               "lang": "en",
+               "value": "Asian Kitchen"
+            },
+            {
+               "lang": "he",
+               "value": "מטבח אסיאתי "
+            }
+         ],
+         "show_allergy_disclaimer_on_menu": false,
+         "show_delivery_info_on_merchant": false,
+         "show_delivery_price_on_merchant": false,
+         "show_item_bottom_sheet": false,
+         "show_phone_number_on_merchant": true,
+         "slug": "chooka-petach-tikva",
+         "status": "VENUE_PUBLISHED",
+         "tag_text": "KOSHER",
+         "tags": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+         ],
+         "timezone": "Asia/Jerusalem",
+         "timezone_name": "Asia/Jerusalem",
+         "tipping": {
+            "currency": "ILS",
+            "max_amount": 10000,
+            "min_amount": 500,
+            "tip_amounts": [
+               500,
+               1000,
+               1500
+            ],
+            "type": "pre_tipping_amount"
+         },
+         "type": "purchase",
+         "website": "http://www.mychooka.co.il/",
+         "wolt_delivery": true
+      }
+   ],
+   "status": "OK"
+}

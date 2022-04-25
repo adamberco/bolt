@@ -1,0 +1,592 @@
+{
+   "results": [
+      {
+         "active_menu": {
+            "$oid": "60eaf1b8bc61f38e4c1208c3"
+         },
+         "address": "אורלוב 55 פתח תקווה",
+         "alive": 1,
+         "allowed_payment_methods": [
+            "card"
+         ],
+         "always_available": false,
+         "b2b_recommended": false,
+         "bank_account_type": "IBAN",
+         "bank_routing_code": "",
+         "cart_view_enabled": false,
+         "categories": [
+            {
+               "link_slug": "category-chicken:petah tikva",
+               "name": "עוף",
+               "primary": true,
+               "slug": "chicken"
+            },
+            {
+               "link_slug": "category-steak:petah tikva",
+               "name": "סטייק",
+               "primary": false,
+               "slug": "steak"
+            },
+            {
+               "link_slug": "category-sandwich:petah tikva",
+               "name": "סנדוויץ'",
+               "primary": false,
+               "slug": "sandwich"
+            },
+            {
+               "link_slug": "category-street_food:petah tikva",
+               "name": "אוכל רחוב",
+               "primary": false,
+               "slug": "street_food"
+            },
+            {
+               "link_slug": "category-mediterranean:petah tikva",
+               "name": "ים תיכוני",
+               "primary": false,
+               "slug": "mediterranean"
+            }
+         ],
+         "city": "Petah Tikva",
+         "city_id": "5e7b3395fd61a6655599258e",
+         "comment_disabled": false,
+         "completion_estimates": {
+            "delivery": "20-40",
+            "delivery_rush": "20-40",
+            "normal": "10-30",
+            "order_estimates_in_use": true,
+            "rush": "10-30"
+         },
+         "country": "ISR",
+         "currency": "ILS",
+         "customer_support_phone": "",
+         "delivery_methods": [
+            "takeaway",
+            "homedelivery"
+         ],
+         "delivery_specs": {
+            "capability_values": [],
+            "courier_restrictions": 0,
+            "custom_geo_range": null,
+            "delivery_enabled": true,
+            "delivery_pricing": {
+               "base_price": 1000,
+               "distance_ranges": [
+                  {
+                     "a": 0,
+                     "b": 0,
+                     "max": 1000,
+                     "min": 0
+                  },
+                  {
+                     "a": 200,
+                     "b": 0,
+                     "max": 2000,
+                     "min": 1000
+                  },
+                  {
+                     "a": 400,
+                     "b": 0,
+                     "max": 3000,
+                     "min": 2000
+                  },
+                  {
+                     "a": 600,
+                     "b": 0,
+                     "max": 4000,
+                     "min": 3000
+                  },
+                  {
+                     "a": 800,
+                     "b": 0,
+                     "max": 0,
+                     "min": 4000
+                  }
+               ],
+               "meta": {},
+               "price_multiplier": 1,
+               "price_ranges": [
+                  {
+                     "a": 5000,
+                     "b": -1,
+                     "max": 5000,
+                     "min": 0
+                  },
+                  {
+                     "a": 0,
+                     "b": 0,
+                     "max": 0,
+                     "min": 5000
+                  }
+               ],
+               "tax": 0.17
+            },
+            "delivery_times": {
+               "friday": [],
+               "monday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 36900000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 78300000
+                     }
+                  }
+               ],
+               "saturday": [],
+               "sunday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 36900000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 78300000
+                     }
+                  }
+               ],
+               "thursday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 36900000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 78300000
+                     }
+                  }
+               ],
+               "tuesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 36900000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 78300000
+                     }
+                  }
+               ],
+               "wednesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 36900000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 61200000
+                     }
+                  }
+               ]
+            },
+            "forbidden_capabilities": [],
+            "geo_range": {},
+            "postcode_range": [],
+            "price": {
+               "tax": 0.17
+            },
+            "require_street_address": true,
+            "required_capabilities": [],
+            "road_range_mode": "driving",
+            "service_time": {
+               "bike": 180,
+               "car": 300
+            },
+            "use_default_autogenerated_geo_range": true,
+            "use_default_delivery_pricing": true
+         },
+         "description": [
+            {
+               "lang": "en",
+               "value": "Shawarma and more"
+            },
+            {
+               "lang": "he",
+               "value": "שווארמה ועוד"
+            }
+         ],
+         "discounts": [],
+         "dropoff_note_prefix": "",
+         "estimates": {
+            "delivery": {
+               "mean": 12
+            },
+            "pickup": {
+               "mean": 6
+            },
+            "preparation": {
+               "max": 30,
+               "mean": 20,
+               "min": 10
+            },
+            "total": {
+               "max": 40,
+               "mean": 30,
+               "min": 20
+            }
+         },
+         "favourite": false,
+         "food_tags": [
+            "עוף",
+            "גריל",
+            "‫סנדוויץ'",
+            "אוכל רחוב",
+            "ים תיכוני"
+         ],
+         "group_order_enabled": true,
+         "high_volume_venue": false,
+         "id": {
+            "$oid": "60eaf13bce948d33146fbadd"
+         },
+         "ipad_free": false,
+         "is_marketplace_v2": false,
+         "is_wolt_plus": false,
+         "item_cards_enabled": false,
+         "itemid": {
+            "$oid": "60eaf13bce948d33146fbadd"
+         },
+         "listimage": "https://prod-wolt-venue-images-cdn.wolt.com/60eaf13bce948d33146fbadd/e18dd4f2-f293-11eb-a5e0-1678906fcc2d_____.jpg",
+         "listimage_blurhash": "jaLaGr;;;;l4DtTtHdnbcPPceJNj",
+         "location": {
+            "coordinates": [
+               34.885434,
+               32.094717
+            ],
+            "type": "Point"
+         },
+         "mainimage": "https://prod-wolt-venue-images-cdn.wolt.com/60eaf13bce948d33146fbadd/29233f40-2f1c-11ec-b21a-ba08302689c0_____.jpg",
+         "mainimage_blurhash": "j9KGCr;;;;hkntTteJP9d4GrjdP5",
+         "menu_layout": "regular",
+         "merchant": {
+            "$oid": "60eaecfe7a3e940061d89d85"
+         },
+         "name": [
+            {
+               "lang": "en",
+               "value": "Shawarma Orlov | Petah Tikva"
+            },
+            {
+               "lang": "he",
+               "value": "שווארמה אורלוב | פתח תקווה"
+            }
+         ],
+         "ncd_allowed": true,
+         "online": true,
+         "opening_times": {
+            "friday": [],
+            "monday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 36900000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 78300000
+                  }
+               }
+            ],
+            "saturday": [],
+            "sunday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 36900000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 78300000
+                  }
+               }
+            ],
+            "thursday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 36900000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 78300000
+                  }
+               }
+            ],
+            "tuesday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 36900000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 78300000
+                  }
+               }
+            ],
+            "wednesday": [
+               {
+                  "type": "open",
+                  "value": {
+                     "$date": 36900000
+                  }
+               },
+               {
+                  "type": "close",
+                  "value": {
+                     "$date": 78300000
+                  }
+               }
+            ]
+         },
+         "phone": "+97239134135",
+         "post_code": " 4934264",
+         "preorder_enabled": true,
+         "preorder_only": false,
+         "preorder_times": {
+            "delivery": {
+               "friday": [],
+               "monday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 39600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 78300000
+                     }
+                  }
+               ],
+               "saturday": [],
+               "sunday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 39600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 78300000
+                     }
+                  }
+               ],
+               "thursday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 39600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 78300000
+                     }
+                  }
+               ],
+               "tuesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 39600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 78300000
+                     }
+                  }
+               ],
+               "wednesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 39600000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 61200000
+                     }
+                  }
+               ]
+            },
+            "maximum_days": 7,
+            "minimum_time_limit": 7200,
+            "minimum_time_limits": {
+               "delivery": 3600,
+               "eatin": 2400,
+               "takeaway": 2400
+            },
+            "takeaway": {
+               "friday": [],
+               "monday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 38700000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 77400000
+                     }
+                  }
+               ],
+               "saturday": [],
+               "sunday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 38700000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 77400000
+                     }
+                  }
+               ],
+               "thursday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 38700000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 77400000
+                     }
+                  }
+               ],
+               "tuesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 38700000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 77400000
+                     }
+                  }
+               ],
+               "wednesday": [
+                  {
+                     "type": "open",
+                     "value": {
+                        "$date": 38700000
+                     }
+                  },
+                  {
+                     "type": "close",
+                     "value": {
+                        "$date": 77400000
+                     }
+                  }
+               ]
+            },
+            "time_step": 300
+         },
+         "presence": "brick_and_mortar",
+         "price_range": 1,
+         "product_line": "restaurant",
+         "public_url": "https://wolt.com/he/isr/petah-tikva/restaurant/shawarma-orlov",
+         "public_visible": true,
+         "rating": {
+            "negative_percentage": 5,
+            "neutral_percentage": 14,
+            "positive_percentage": 81,
+            "rating": 3,
+            "score": 8.4,
+            "text": "טוב מאוד",
+            "volume": 500
+         },
+         "ratings_and_reviews_enabled": false,
+         "relevancy": 12.572963094657284,
+         "relevancy_from_purchases": 6.43240773664321,
+         "rush": {
+            "queue_minutes": false,
+            "status": false
+         },
+         "service_fee_description": "דמי השירות עוזרים לנו לספק שירות מעולה, בעזרתם אנו מכסים מגוון עלויות הקשורות לתפעול האופרטיבי שלנו.",
+         "short_description": [
+            {
+               "lang": "en",
+               "value": "Shawarma and more"
+            },
+            {
+               "lang": "he",
+               "value": "שווארמה ועוד"
+            }
+         ],
+         "show_allergy_disclaimer_on_menu": false,
+         "show_delivery_info_on_merchant": false,
+         "show_delivery_price_on_merchant": false,
+         "show_item_bottom_sheet": false,
+         "show_phone_number_on_merchant": true,
+         "slug": "shawarma-orlov",
+         "status": "VENUE_PUBLISHED",
+         "substitutions_enabled": false,
+         "tags": [
+            {},
+            {},
+            {},
+            {},
+            {}
+         ],
+         "timezone": "Asia/Jerusalem",
+         "timezone_name": "Asia/Jerusalem",
+         "tipping": {
+            "currency": "ILS",
+            "max_amount": 10000,
+            "min_amount": 500,
+            "tip_amounts": [
+               500,
+               1000,
+               1500
+            ],
+            "type": "pre_tipping_amount"
+         },
+         "type": "purchase",
+         "website": "https://wolt.com/he/discovery?tab=featured",
+         "wolt_delivery": true
+      }
+   ],
+   "status": "OK"
+}

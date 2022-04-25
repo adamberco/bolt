@@ -1,0 +1,144 @@
+{
+    "basket": [
+        {
+            "id": {
+                "itemId": "624f19a1221e01aa02cd94e5",
+                "index": 0
+            },
+            "quantity": 1,
+            "options": [
+                {
+                    "optionId": "624f19a1221e01aa02cd94e6",
+                    "values": [
+                        {
+                            "valueId": "62495f04962d611990ed6513",
+                            "count": 1
+                        },
+                        {
+                            "valueId": "62495f04962d611990ed6514",
+                            "count": 1
+                        },
+                        {
+                            "valueId": "62495f04962d611990ed6515",
+                            "count": 1
+                        },
+                        {
+                            "valueId": "62495f04962d611990ed6516",
+                            "count": 1
+                        },
+                        {
+                            "valueId": "62495f04962d611990ed6518",
+                            "count": 1
+                        },
+                        {
+                            "valueId": "62495f04962d611990ed6519",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "optionId": "624f19a1221e01aa02cd94e7",
+                    "values": [
+                        {
+                            "valueId": "62495f04962d611990ed6521",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "optionId": "624f19a1221e01aa02cd94e8",
+                    "values": [
+                        {
+                            "valueId": "62495f04962d611990ed6531",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "optionId": "624f19a1221e01aa02cd94e9",
+                    "values": [
+                        {
+                            "valueId": "62495f04962d611990ed6554",
+                            "count": 1
+                        },
+                        {
+                            "valueId": "62495f04962d611990ed6556",
+                            "count": 1
+                        }
+                    ]
+                }
+            ],
+            "isSubstitutionAllowed": true
+        },
+        {
+            "id": {
+                "itemId": "62495f04962d611990ed6597",
+                "index": 0
+            },
+            "quantity": 1,
+            "options": [
+                {
+                    "optionId": "6179052a60fca6de9eb9828b",
+                    "values": [
+                        {
+                            "valueId": "62495f04962d611990ed6524",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "optionId": "6179052a60fca6de9eb9828c",
+                    "values": [
+                        {
+                            "valueId": "62495f04962d611990ed6528",
+                            "count": 1
+                        },
+                        {
+                            "valueId": "62495f04962d611990ed6529",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "optionId": "6179052a60fca6de9eb9828d",
+                    "values": []
+                },
+                {
+                    "optionId": "61790761e9262772c0ab0253",
+                    "values": [
+                        {
+                            "valueId": "62495f04962d611990ed6546",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "optionId": "61d42d941f5671754dd32783",
+                    "values": []
+                }
+            ],
+            "isSubstitutionAllowed": true
+        },
+        {
+            "id": {
+                "itemId": "62495f04962d611990ed657d",
+                "index": 0
+            },
+            "quantity": 1,
+            "options": [],
+            "isSubstitutionAllowed": true
+        },
+        {
+            "id": {
+                "itemId": "62495f04962d611990ed6599",
+                "index": 0
+            },
+            "quantity": 1,
+            "options": [],
+            "isSubstitutionAllowed": true
+        }
+    ],
+    "menuId": "60eaf1b8bc61f38e4c1208c3",
+    "deliveryMethod": "homedelivery",
+    "orderTime": null
+}
